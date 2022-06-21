@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MadhukaD
-- 👀 I’m interested in DevOps, Cloud Computing and Video gaming
-- 🌱 I’m currently learning concepts about DevOps and Cloud Computing along with Docker and Kubernetes
+- 👋 Hi, I’m Madhuka Dilshan < @MadhukaD >
+- 👀 I’m interested mainly in DevOps, Cloud Computing and Video gaming
+- 🌱 I’m currently learning concepts about DevOps and Cloud Computing along with Docker and Kubernetes also looking forward to learn Ansible, Openshift, Jenkins and Ruby
 - 📫 How to reach me madhukadilshan1397@gmail.com
 
 <!---
