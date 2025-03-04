@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Madhuka Dilshan < @MadhukaD >
-## Cloud Computing Undergraduate
-- 👀 I’m mainly interested in DevOps and Cloud Services
-- 🌱 I have a solid foundation about DevOps concept and related tools and technologies like Docker, Kubernetes, Terraform, Golang, Python, AWS platform, Ubuntu OS and Git. Also looking forward to learn Ansible, Openshift, Jenkins, Nagios, Chef, Azure, GCP and Puppet.
+## Associate DevOps Engineer
+- 👀 I’m mainly interested in DevOps and Cloud Technologies
+- 🌱 I have a solid foundation about DevOps concept and related tools and technologies like Docker, Kubernetes, Terraform, Golang, Python, AWS, Linux and Git.
 - 📫 How to reach me madhukad01@gmail.com
 
 ## Connect with me:
