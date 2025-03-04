@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Madhuka Dilshan < @MadhukaD >
-## Associate DevOps Engineer
+## Associate DevOps Engineer | AWS Cloud Practitioner | Cloud Computing Graduate
 - 👀 I’m mainly interested in DevOps and Cloud Technologies
 - 🌱 I have a solid foundation about DevOps concept and related tools and technologies like Docker, Kubernetes, Terraform, Golang, Python, AWS, Linux and Git.
 - 📫 How to reach me madhukad01@gmail.com
